@@ -1,0 +1,51 @@
+{
+  "session_id": "demo_d6aa194d-135d-4ef7-b7e5-b501f322ea9a",
+  "user": {
+    "name": "Alex Demo",
+    "email": "alex@demo.com",
+    "grade": "12th",
+    "location": "San Francisco"
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What subjects do you enjoy most in school?",
+      "type": "static",
+      "answer": "Math, Computer Science, and Physics",
+      "timestamp": "2025-09-08T20:01:31.404500"
+    },
+    {
+      "id": "q2",
+      "text": "What activities make you lose track of time?",
+      "type": "static",
+      "answer": "Coding personal projects and solving algorithm problems",
+      "timestamp": "2025-09-08T20:01:31.404500"
+    },
+    {
+      "id": "q3",
+      "text": "Do you prefer working with people, data, or things?",
+      "type": "static",
+      "answer": "I love working with data and building things, but also enjoy collaborating with others",
+      "timestamp": "2025-09-08T20:01:31.404500"
+    },
+    {
+      "id": "q4",
+      "text": "What type of work environment appeals to you?",
+      "type": "static",
+      "answer": "Hybrid work with some remote flexibility",
+      "timestamp": "2025-09-08T20:01:31.404500"
+    },
+    {
+      "id": "q5",
+      "text": "How important is work-life balance to you?",
+      "type": "static",
+      "answer": "Very important - I want to have time for hobbies and personal projects",
+      "timestamp": "2025-09-08T20:01:31.404500"
+    }
+  ],
+  "metadata": {
+    "langchain_prompt_id": "career_compass_v1",
+    "model": "llama-3.3-70b-versatile",
+    "time": "2025-09-08T20:01:20.255704"
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "career_id": "ai_ml_engineer",
+    "title": "AI/ML Engineer",
+    "demand_score": 92,
+    "avg_salary": 125000,
+    "key_skills": ["Python", "PyTorch", "TensorFlow", "Data Engineering", "MLOps", "Statistics", "Deep Learning"],
+    "growth_trend": {
+      "5y_growth_pct": 45,
+      "explain": "Rapidly increasing demand due to widespread AI adoption across industries, from healthcare to finance to autonomous vehicles."
+    },
+    "description": "Design and implement machine learning models and AI systems to solve complex business problems.",
+    "education_requirements": "Bachelor's in Computer Science, Data Science, or related field. Master's preferred.",
+    "entry_level_salary": 85000
+  },
+  {
+    "career_id": "frontend_developer",
+    "title": "Frontend Developer",
+    "demand_score": 88,
+    "avg_salary": 85000,
+    "key_skills": ["JavaScript", "React", "Vue.js", "HTML", "CSS", "TypeScript", "UI/UX Design", "Git"],
+    "growth_trend": {
+      "5y_growth_pct": 25,
+      "explain": "Strong growth driven by increasing focus on user experience and the rise of mobile-first web applications."
+    },
+    "description": "Create engaging user interfaces and experiences for web applications using modern frameworks and technologies.",
+    "education_requirements": "Bachelor's in Computer Science, Web Development, or equivalent experience.",
+    "entry_level_salary": 65000
+  },
+  {
+    "career_id": "devops_engineer",
+    "title": "DevOps Engineer",
+    "demand_score": 90,
+    "avg_salary": 110000,
+    "key_skills": ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD", "Jenkins", "Terraform", "Linux", "Python"],
+    "growth_trend": {
+      "5y_growth_pct": 35,
+      "explain": "High demand as companies adopt cloud infrastructure and need to streamline deployment and operations."
+    },
+    "description": "Bridge development and operations teams to improve deployment frequency and reduce failure rates.",
+    "education_requirements": "Bachelor's in Computer Science, IT, or related field. Certifications highly valued.",
+    "entry_level_salary": 80000
+  },
+  {
+    "career_id": "product_manager",
+    "title": "Product Manager",
+    "demand_score": 85,
+    "avg_salary": 115000,
+    "key_skills": ["Product Strategy", "Market Research", "Agile", "Data Analysis", "User Experience", "Communication", "Roadmapping"],
+    "growth_trend": {
+      "5y_growth_pct": 20,
+      "explain": "Steady growth as companies recognize the importance of product-led growth and user-centric development."
+    },
+    "description": "Guide product development from conception to launch, working with cross-functional teams to deliver value to customers.",
+    "education_requirements": "Bachelor's in Business, Engineering, or related field. MBA often preferred.",
+    "entry_level_salary": 75000
+  },
+  {
+    "career_id": "data_analyst",
+    "title": "Data Analyst",
+    "demand_score": 87,
+    "avg_salary": 75000,
+    "key_skills": ["SQL", "Python", "Excel", "Tableau", "Power BI", "Statistics", "Data Visualization", "R"],
+    "growth_trend": {
+      "5y_growth_pct": 30,
+      "explain": "Growing demand as organizations increasingly rely on data-driven decision making across all departments."
+    },
+    "description": "Collect, process, and analyze data to help organizations make informed business decisions.",
+    "education_requirements": "Bachelor's in Statistics, Mathematics, Economics, or related field.",
+    "entry_level_salary": 55000
+  },
+  {
+    "career_id": "cybersecurity_specialist",
+    "title": "Cybersecurity Specialist",
+    "demand_score": 95,
+    "avg_salary": 105000,
+    "key_skills": ["Network Security", "Incident Response", "Risk Assessment", "Penetration Testing", "CISSP", "Firewall Management", "Python"],
+    "growth_trend": {
+      "5y_growth_pct": 50,
+      "explain": "Exceptional growth driven by increasing cyber threats and regulatory compliance requirements across all industries."
+    },
+    "description": "Protect organizations from cyber threats by implementing security measures and responding to security incidents.",
+    "education_requirements": "Bachelor's in Cybersecurity, Computer Science, or IT. Security certifications essential.",
+    "entry_level_salary": 70000
+  },
+  {
+    "career_id": "ux_designer",
+    "title": "UX/UI Designer",
+    "demand_score": 82,
+    "avg_salary": 80000,
+    "key_skills": ["Figma", "Adobe Creative Suite", "User Research", "Prototyping", "Wireframing", "Design Thinking", "Usability Testing"],
+    "growth_trend": {
+      "5y_growth_pct": 28,
+      "explain": "Strong growth as companies prioritize user experience to differentiate their products in competitive markets."
+    },
+    "description": "Design intuitive and engaging user experiences for digital products through research, prototyping, and testing.",
+    "education_requirements": "Bachelor's in Design, HCI, Psychology, or related field. Strong portfolio essential.",
+    "entry_level_salary": 60000
+  },
+  {
+    "career_id": "cloud_architect",
+    "title": "Cloud Solutions Architect",
+    "demand_score": 91,
+    "avg_salary": 135000,
+    "key_skills": ["AWS", "Azure", "Google Cloud", "Microservices", "Serverless", "Security", "Cost Optimization", "Architecture Design"],
+    "growth_trend": {
+      "5y_growth_pct": 40,
+      "explain": "High demand as organizations migrate to cloud infrastructure and need experts to design scalable, secure solutions."
+    },
+    "description": "Design and implement cloud-based solutions that meet business requirements while optimizing for performance and cost.",
+    "education_requirements": "Bachelor's in Computer Science or Engineering. Cloud certifications highly valued.",
+    "entry_level_salary": 95000
+  }
+]

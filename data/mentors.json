@@ -1,0 +1,114 @@
+{
+  "mentors": [
+    {
+      "mentor_id": "mentor_001",
+      "name": "Sarah Chen",
+      "expertise": ["ai_ml_engineer", "data_analyst"],
+      "bio": "Senior ML Engineer at Google with 8 years of experience in deep learning and computer vision. Previously led AI initiatives at startups and Fortune 500 companies.",
+      "rating": 4.9,
+      "availability": "Weekends and evenings",
+      "contact": "sarah.chen@mentor.com",
+      "specializations": ["Computer Vision", "NLP", "MLOps"],
+      "companies": ["Google", "Tesla", "Uber"]
+    },
+    {
+      "mentor_id": "mentor_002",
+      "name": "Marcus Rodriguez",
+      "expertise": ["frontend_developer", "ux_designer"],
+      "bio": "Lead Frontend Developer at Spotify with expertise in React ecosystem. Passionate about creating accessible and performant web applications.",
+      "rating": 4.7,
+      "availability": "Flexible scheduling",
+      "contact": "marcus.r@mentor.com",
+      "specializations": ["React", "TypeScript", "Web Performance"],
+      "companies": ["Spotify", "Airbnb", "Netflix"]
+    },
+    {
+      "mentor_id": "mentor_003",
+      "name": "Priya Patel",
+      "expertise": ["devops_engineer", "cloud_architect"],
+      "bio": "Principal DevOps Engineer at Amazon Web Services. Expert in cloud infrastructure, automation, and helping teams achieve CI/CD excellence.",
+      "rating": 4.8,
+      "availability": "Tuesday and Thursday evenings",
+      "contact": "priya.patel@mentor.com",
+      "specializations": ["AWS", "Kubernetes", "Infrastructure as Code"],
+      "companies": ["AWS", "Microsoft", "Red Hat"]
+    },
+    {
+      "mentor_id": "mentor_004",
+      "name": "David Kim",
+      "expertise": ["cybersecurity_specialist"],
+      "bio": "Cybersecurity Director at JPMorgan Chase with 12 years of experience in financial services security. CISSP certified with expertise in threat hunting.",
+      "rating": 4.9,
+      "availability": "Monday and Wednesday evenings",
+      "contact": "david.kim@mentor.com",
+      "specializations": ["Incident Response", "Threat Intelligence", "Security Architecture"],
+      "companies": ["JPMorgan Chase", "Bank of America", "Deloitte"]
+    },
+    {
+      "mentor_id": "mentor_005",
+      "name": "Emily Johnson",
+      "expertise": ["product_manager"],
+      "bio": "Senior Product Manager at Meta (Facebook) with 6 years of experience launching consumer products used by millions. Previously at LinkedIn and startup environments.",
+      "rating": 4.6,
+      "availability": "Weekend mornings",
+      "contact": "emily.johnson@mentor.com",
+      "specializations": ["Product Strategy", "Growth", "B2C Products"],
+      "companies": ["Meta", "LinkedIn", "Dropbox"]
+    },
+    {
+      "mentor_id": "mentor_006",
+      "name": "Alex Thompson",
+      "expertise": ["data_analyst", "ai_ml_engineer"],
+      "bio": "Data Science Lead at Uber with focus on experimentation and causal inference. PhD in Statistics from Stanford, passionate about mentoring data professionals.",
+      "rating": 4.8,
+      "availability": "Sunday afternoons",
+      "contact": "alex.thompson@mentor.com",
+      "specializations": ["A/B Testing", "Causal Inference", "Statistics"],
+      "companies": ["Uber", "Lyft", "Airbnb"]
+    },
+    {
+      "mentor_id": "mentor_007",
+      "name": "Jessica Liu",
+      "expertise": ["ux_designer", "frontend_developer"],
+      "bio": "Senior UX Designer at Adobe with expertise in design systems and user research. 7 years of experience creating intuitive experiences for creative professionals.",
+      "rating": 4.7,
+      "availability": "Flexible",
+      "contact": "jessica.liu@mentor.com",
+      "specializations": ["Design Systems", "User Research", "Accessibility"],
+      "companies": ["Adobe", "Figma", "Sketch"]
+    },
+    {
+      "mentor_id": "mentor_008",
+      "name": "Robert Singh",
+      "expertise": ["cloud_architect", "devops_engineer"],
+      "bio": "Cloud Solutions Architect at Microsoft Azure with 10 years of enterprise architecture experience. Helps organizations migrate to cloud-native solutions.",
+      "rating": 4.9,
+      "availability": "Thursday evenings",
+      "contact": "robert.singh@mentor.com",
+      "specializations": ["Azure", "Enterprise Architecture", "Migration Strategy"],
+      "companies": ["Microsoft", "IBM", "Accenture"]
+    },
+    {
+      "mentor_id": "mentor_009",
+      "name": "Lisa Wang",
+      "expertise": ["product_manager", "data_analyst"],
+      "bio": "VP of Product at Stripe with background in fintech and payments. Expert in data-driven product decisions and scaling product teams.",
+      "rating": 4.8,
+      "availability": "Saturday mornings",
+      "contact": "lisa.wang@mentor.com",
+      "specializations": ["Fintech", "Product Analytics", "Team Leadership"],
+      "companies": ["Stripe", "PayPal", "Square"]
+    },
+    {
+      "mentor_id": "mentor_010",
+      "name": "Michael Brown",
+      "expertise": ["cybersecurity_specialist", "devops_engineer"],
+      "bio": "Security Engineer at Cloudflare specializing in infrastructure security and DevSecOps. Passionate about building security into the development lifecycle.",
+      "rating": 4.6,
+      "availability": "Sunday evenings",
+      "contact": "michael.brown@mentor.com",
+      "specializations": ["DevSecOps", "Infrastructure Security", "Compliance"],
+      "companies": ["Cloudflare", "Okta", "CrowdStrike"]
+    }
+  ]
+}

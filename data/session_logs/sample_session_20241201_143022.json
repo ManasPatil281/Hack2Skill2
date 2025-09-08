@@ -1,0 +1,68 @@
+{
+  "session_id": "demo_session_20241201_143022",
+  "user": {
+    "name": "Alex Demo",
+    "email": "alex@demo.com",
+    "grade": "12th Grade",
+    "location": "San Francisco, CA"
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What subjects do you enjoy most in school?",
+      "type": "static",
+      "answer": "I really enjoy Math, Computer Science, and Physics. I find problem-solving in these subjects very satisfying.",
+      "timestamp": "2024-12-01T14:30:22.123Z"
+    },
+    {
+      "id": "q2", 
+      "text": "What activities make you lose track of time?",
+      "type": "static",
+      "answer": "Coding personal projects, especially when I'm working on algorithms or building web applications. I also love analyzing data to find patterns.",
+      "timestamp": "2024-12-01T14:31:15.456Z"
+    },
+    {
+      "id": "q3",
+      "text": "Do you prefer working with people, data, or things?",
+      "type": "static", 
+      "answer": "I really enjoy working with data and building things, but I also like collaborating with others on projects. I think I prefer a mix.",
+      "timestamp": "2024-12-01T14:32:03.789Z"
+    },
+    {
+      "id": "q4",
+      "text": "What type of work environment appeals to you?",
+      "type": "static",
+      "answer": "I'd like a hybrid environment with some remote flexibility. I enjoy the energy of working with a team in person, but also value focused time at home.",
+      "timestamp": "2024-12-01T14:32:45.012Z"
+    },
+    {
+      "id": "q5",
+      "text": "How important is work-life balance to you?",
+      "type": "static",
+      "answer": "Very important. I want to have time for personal projects, hobbies, and spending time with family and friends.",
+      "timestamp": "2024-12-01T14:33:20.345Z"
+    },
+    {
+      "id": "adaptive_1",
+      "text": "What programming languages or technologies are you most excited to learn more about?",
+      "type": "adaptive",
+      "answer": "I'm really interested in Python for machine learning and data science. I've also been exploring React for web development.",
+      "timestamp": "2024-12-01T14:34:12.678Z"
+    },
+    {
+      "id": "adaptive_2", 
+      "text": "When you work on projects, do you prefer to focus on the technical implementation or the user experience?",
+      "type": "adaptive",
+      "answer": "I think I lean more toward the technical implementation, but I understand that user experience is crucial for any successful product.",
+      "timestamp": "2024-12-01T14:35:05.901Z"
+    }
+  ],
+  "metadata": {
+    "langchain_prompt_id": "career_compass_v1",
+    "model": "gpt-3.5-turbo",
+    "time": "2024-12-01T14:30:22.123Z",
+    "total_questions": 7,
+    "adaptive_questions_generated": 2,
+    "session_duration_minutes": 5
+  }
+}

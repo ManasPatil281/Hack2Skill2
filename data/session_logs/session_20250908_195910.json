@@ -1,0 +1,107 @@
+{
+  "session_id": "c13212bb-3788-4e1e-9792-74eac111349c",
+  "user": {
+    "name": "Manas Patil",
+    "email": "manaspatil281@gmail.com",
+    "grade": "btech 3rd year comps ",
+    "location": "Navi Mumbai"
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "text": "What subjects do you enjoy most in school?",
+      "type": "static",
+      "answer": "Science",
+      "timestamp": "2025-09-08T19:59:10.346090"
+    },
+    {
+      "id": "q2",
+      "text": "What activities make you lose track of time?",
+      "type": "static",
+      "answer": "cricket",
+      "timestamp": "2025-09-08T19:59:10.346090"
+    },
+    {
+      "id": "q3",
+      "text": "Do you prefer working with people, data, or things?",
+      "type": "static",
+      "answer": "Data",
+      "timestamp": "2025-09-08T19:59:10.346090"
+    },
+    {
+      "id": "q4",
+      "text": "What type of work environment appeals to you? (Remote, office, hybrid, field work)",
+      "type": "static",
+      "answer": "hybrid",
+      "timestamp": "2025-09-08T19:59:10.346090"
+    },
+    {
+      "id": "q5",
+      "text": "How important is work-life balance to you?",
+      "type": "static",
+      "answer": "Not much",
+      "timestamp": "2025-09-08T19:59:10.347088"
+    },
+    {
+      "id": "q6",
+      "text": "What skills do you currently have or are developing?",
+      "type": "static",
+      "answer": "Gen AI",
+      "timestamp": "2025-09-08T19:59:10.347088"
+    },
+    {
+      "id": "q7",
+      "text": "What motivates you most? (Money, impact, creativity, stability, growth)",
+      "type": "static",
+      "answer": "Growth",
+      "timestamp": "2025-09-08T19:59:10.347088"
+    },
+    {
+      "id": "q8",
+      "text": "Do you prefer structured tasks or creative problem-solving?",
+      "type": "static",
+      "answer": "creative",
+      "timestamp": "2025-09-08T19:59:10.347088"
+    },
+    {
+      "id": "q9",
+      "text": "How comfortable are you with technology and learning new tools?",
+      "type": "static",
+      "answer": "very much comfortable",
+      "timestamp": "2025-09-08T19:59:10.347088"
+    },
+    {
+      "id": "q10",
+      "text": "What does career success look like to you?",
+      "type": "static",
+      "answer": "Freedom",
+      "timestamp": "2025-09-08T19:59:10.347088"
+    },
+    {
+      "id": "adaptive_1",
+      "text": "What aspects of data fascinate you the most, such as data analysis, data visualization, or machine learning?",
+      "type": "adaptive",
+      "timestamp": "2025-09-08T19:58:36.642528",
+      "answer": "ml"
+    },
+    {
+      "id": "adaptive_3",
+      "text": "How do you think your interest in cricket could be applied to a career, such as in sports analytics or management?",
+      "type": "adaptive",
+      "timestamp": "2025-09-08T19:58:55.400095",
+      "answer": "in sports related descision making"
+    },
+    {
+      "id": "adaptive_5",
+      "text": "Are you more drawn to the technical side of Gen AI or its applications in real-world problems?",
+      "type": "adaptive",
+      "timestamp": "2025-09-08T19:59:10.101301",
+      "answer": "Both but preferablly applications"
+    }
+  ],
+  "metadata": {
+    "langchain_prompt_id": "career_compass_v1",
+    "model": "llama-3.3-70b-versatile",
+    "time": "2025-09-08T19:56:51.643573"
+  }
+}
